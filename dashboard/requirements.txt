@@ -1,7 +1,0 @@
-matplotlib==3.5.3
-pipreqs==0.4.13
-seaborn==0.12.2
-shapely==2.0.6
-six==1.16.0
-smmap==5.0.1
-streamlit==1.23.1
